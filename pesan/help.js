@@ -75,7 +75,7 @@ exports.otherMenu = (prefix, pushname, isOwner, isPremium, baterai) => {
 き⃟🌊. ${prefix}ytsearch _query_
 
 © 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
-*Subs My Channel : Xrutz Official*
+*Subs My Channel : Fadil Shadow*
 *Ketik ${prefix}allmenu biar gak ribet xixi*
 `
 }
@@ -104,7 +104,7 @@ exports.stickerMenu = (prefix, pushname, isOwner, isPremium, baterai) => {
 き⃟🌊. ${prefix}toimg
 
 © 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
-*Subs My Channel : Xrutz Official*
+*Subs My Channel : Fadil Shadow*
 *Ketik ${prefix}allmenu biar gak ribet xixi*
 `
 }
@@ -130,7 +130,7 @@ exports.ownerMenu = (prefix, pushname, isOwner, isPremium, baterai) => {
 き⃟🌊. ${prefix}premium del _@tag|nomor_
 
 © 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
-*Subs My Channel : Xrutz Official*
+*Subs My Channel : Fadil Shadow*
 *Ketik ${prefix}allmenu biar gak ribet xixi*
 `
 }
@@ -169,7 +169,7 @@ exports.groupMenu = (prefix, pushname, isOwner, isPremium, baterai) => {
 き⃟🌊. ${prefix}linkgc
 
 © 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
-*Subs My Channel : Xrutz Official*
+*Subs My Channel : Fadil Shadow*
 *Ketik ${prefix}allmenu biar gak ribet xixi*
 `
 }
@@ -194,7 +194,7 @@ exports.downloadMenu = (prefix, pushname, isOwner, isPremium, baterai) => {
 き⃟🌊. ${prefix}mediafire
 
 © 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
-*Subs My Channel : Xrutz Official*
+*Subs My Channel : Fadil Shadow*
 *Ketik ${prefix}allmenu biar gak ribet xixi*
 `
 }
@@ -236,12 +236,12 @@ KELEBIHAN BOTZ
 ▢ BOT NO PASARAN
 
 LIST HARGA SEWA BOTZ
-▢ PERHARI 2K
-▢ PERMINGGU 5K
-▢ PERBULAN 15K
-▢ PERMANEN 40K
+▢ PERHARI 0K
+▢ PERMINGGU 1K
+▢ PERBULAN 5K
+▢ PERMANEN 10K
 MINAT HIBUNGI OWNER
-wa.me/6282287486762
+wa.me/6283141445553
 
 YG MAU TOP UP GAME MARI JOIN
 https://chat.whatsapp.com/KUb8JJwppqL3zLS7p9xXx7`
@@ -273,7 +273,7 @@ return `*「 INFO MENU 」*
 き⃟🌊. ${prefix}bugreport _keluhan_
 
 © 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
-*Subs My Channel : Xrutz Official*
+*Subs My Channel : Fadil Shadow*
 *Ketik ${prefix}allmenu biar gak ribet xixi*
 `
 } 
@@ -291,7 +291,7 @@ return `*「 ISLAM MENU 」*
 き⃟🌊. ${prefix}listsurah
 
 © 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊??𝒊𝒂𝒍
-*Subs My Channel : Xrutz Official*
+*Subs My Channel : Fadil Shadow*
 *Ketik ${prefix}allmenu biar gak ribet xixi*
 `
 }
@@ -311,7 +311,7 @@ return `*「 SERTI MENU 」*
 き⃟🌊. ${prefix}goodgirl
 
 © 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
-*Subs My Channel : Xrutz Official*
+*Subs My Channel : Fadil Shadow*
 *Ketik ${prefix}allmenu biar gak ribet xixi*
 `
 }
@@ -331,7 +331,7 @@ return`*「 CERITA MENU 」*
 き⃟🌊. ${prefix}quotes
 
 © 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
-*Subs My Channel : Xrutz Official*
+*Subs My Channel : Fadil Shadow*
 *Ketik ${prefix}allmenu biar gak ribet xixi*
 `
 }
@@ -356,7 +356,7 @@ return`*「 MAKER MENU 」*
 き⃟🌊. ${prefix}express
 
 © 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
-*Subs My Channel : Xrutz Official*
+*Subs My Channel : Fadil Shadow*
 *Ketik ${prefix}allmenu biar gak ribet xixi*
 `
 }
@@ -378,5 +378,5 @@ return`*「 TOOLS MENU 」*
 き⃟🌊. ${prefix}getstik
    
 © 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
-*Subs My Channel : Xrutz Official*
+*Subs My Channel : Fadil Shadow*
 *Ketik ${prefix}allmenu biar gak ribet xixi*`}
